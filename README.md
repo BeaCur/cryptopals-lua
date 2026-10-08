@@ -1,6 +1,6 @@
 ## Cryptopals crypto Challenges in Lua
 
-This repository contains my solutions for the Cryptopals crypto challenges (actually challenges 1-24), implemented in Lua using Zenroom.
+This repository contains my solutions for the Cryptopals crypto challenges (actually challenges 1-32), implemented in Lua using Zenroom.
 
 ## Requirements
 - [Zenroom](https://zenroom.org/)
